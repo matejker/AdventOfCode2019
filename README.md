@@ -1,5 +1,5 @@
 # Advent of Code 2019
-_Hello world_ with Rust [1] and Advent of Code 2019 [2]
+_Hello world_ with Rust [1] and Advent of Code 2019 [2]. 
 
 ## References 
 [1] Klabnik, S., Nichols C. (2018),  _The Rust Programming Language_, https://doc.rust-lang.org/stable/book/  

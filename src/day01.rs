@@ -16,7 +16,7 @@ fn main() {
         let mut fuel: i32 = fuel_counter_upper(x);
         sum = sum + fuel;
 
-        while fuel > 0{
+        while fuel > 0 {
             total_sum = total_sum + fuel;
             fuel = fuel_counter_upper(fuel);
         }
